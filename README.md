@@ -5,7 +5,7 @@
 
 This is a camera app that continuously detects the faces (bounding boxes) in the frames seen by your device's back camera,
 
-Tree models generated from MobilnetV2 are available :
+Three models generated from MobilnetV2 are available :
 
   
 * Detect_640.tflite : SSD MobileNet V2 FPNLite 640x640
