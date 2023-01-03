@@ -5,9 +5,12 @@
 
 📱 This is a camera app that continuously detects the faces (bounding boxes) in the frames seen by your device's back camera :camera:,
 
-<a href="url"><img src="Screenshot/Sc1.jpg" align="left" height="300" width="150" ></a>
 
-<a href="url"><img src="Screenshot/Sc2.jpg" align="middle" height="300" width="150" ></a>
+<p align="center">
+  <img alt="Light" src="./screenshot/Sc1.jpg" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./screenshot/Sc2.jpg" width="25%">
+</p>
 
 🚩 Three models have been fine-tuned using the pre-trained model [MobilnetV2](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md):
 
